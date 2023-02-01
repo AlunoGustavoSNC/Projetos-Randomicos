@@ -47,5 +47,5 @@ function calcular(){
     }
     peso.value = ''
     peso.focus()    
-    //altura.value = ''
+    altura.value = ''
 }
